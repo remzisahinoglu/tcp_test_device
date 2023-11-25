@@ -1,0 +1,63 @@
+B:\visual_c_sharp\tcp_ip_client\tcp_ip_client\tcp_ip_client\bin\Debug\tcp_ip_client.exe.config
+B:\visual_c_sharp\tcp_ip_client\tcp_ip_client\tcp_ip_client\bin\Debug\tcp_ip_client.exe
+B:\visual_c_sharp\tcp_ip_client\tcp_ip_client\tcp_ip_client\bin\Debug\tcp_ip_client.pdb
+B:\visual_c_sharp\tcp_ip_client\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.csprojResolveAssemblyReference.cache
+B:\visual_c_sharp\tcp_ip_client\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.Form1.resources
+B:\visual_c_sharp\tcp_ip_client\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.Properties.Resources.resources
+B:\visual_c_sharp\tcp_ip_client\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.csproj.GenerateResource.Cache
+B:\visual_c_sharp\tcp_ip_client\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.exe
+B:\visual_c_sharp\tcp_ip_client\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.pdb
+B:\test_kontrol_cihazı\v5_27.09.2016 - ethernet, soğuk\software\tcp_ip_client\tcp_ip_client\bin\Debug\tcp_ip_client.exe.config
+B:\test_kontrol_cihazı\v5_27.09.2016 - ethernet, soğuk\software\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.exe
+B:\test_kontrol_cihazı\v5_27.09.2016 - ethernet, soğuk\software\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.pdb
+B:\test_kontrol_cihazı\v5_27.09.2016 - ethernet, soğuk\software\tcp_ip_client\tcp_ip_client\bin\Debug\tcp_ip_client.exe
+B:\test_kontrol_cihazı\v5_27.09.2016 - ethernet, soğuk\software\tcp_ip_client\tcp_ip_client\bin\Debug\tcp_ip_client.pdb
+B:\test_kontrol_cihazı\v5_27.09.2016 - ethernet, soğuk\software\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.csprojResolveAssemblyReference.cache
+B:\test_kontrol_cihazı\v5_27.09.2016 - ethernet, soğuk\software\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.Form1.resources
+B:\test_kontrol_cihazı\v5_27.09.2016 - ethernet, soğuk\software\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.Properties.Resources.resources
+B:\test_kontrol_cihazı\v5_27.09.2016 - ethernet, soğuk\software\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.csproj.GenerateResource.Cache
+C:\Users\remzi.sahinoglu\Desktop\tcp_ip_client\tcp_ip_client\bin\Debug\tcp_ip_client.exe.config
+C:\Users\remzi.sahinoglu\Desktop\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.exe
+C:\Users\remzi.sahinoglu\Desktop\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.pdb
+C:\Users\remzi.sahinoglu\Desktop\tcp_ip_client\tcp_ip_client\bin\Debug\tcp_ip_client.exe
+C:\Users\remzi.sahinoglu\Desktop\tcp_ip_client\tcp_ip_client\bin\Debug\tcp_ip_client.pdb
+C:\Users\remzi.sahinoglu\Desktop\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.csprojResolveAssemblyReference.cache
+C:\Users\remzi.sahinoglu\Desktop\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.Form1.resources
+C:\Users\remzi.sahinoglu\Desktop\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.Properties.Resources.resources
+C:\Users\remzi.sahinoglu\Desktop\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.csproj.GenerateResource.Cache
+B:\PROJELER\RS003_SOGUK_TEST_CIHAZI_KONTROL\v5_27.09.2016_ETHERNET_KONTROL_SOGUK\YAZILIM\tcp_ip_client\tcp_ip_client\bin\Debug\tcp_ip_client.exe.config
+B:\PROJELER\RS003_SOGUK_TEST_CIHAZI_KONTROL\v5_27.09.2016_ETHERNET_KONTROL_SOGUK\YAZILIM\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.exe
+B:\PROJELER\RS003_SOGUK_TEST_CIHAZI_KONTROL\v5_27.09.2016_ETHERNET_KONTROL_SOGUK\YAZILIM\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.pdb
+B:\PROJELER\RS003_SOGUK_TEST_CIHAZI_KONTROL\v5_27.09.2016_ETHERNET_KONTROL_SOGUK\YAZILIM\tcp_ip_client\tcp_ip_client\bin\Debug\tcp_ip_client.exe
+B:\PROJELER\RS003_SOGUK_TEST_CIHAZI_KONTROL\v5_27.09.2016_ETHERNET_KONTROL_SOGUK\YAZILIM\tcp_ip_client\tcp_ip_client\bin\Debug\tcp_ip_client.pdb
+B:\PROJELER\RS003_SOGUK_TEST_CIHAZI_KONTROL\v5_27.09.2016_ETHERNET_KONTROL_SOGUK\YAZILIM\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.csprojResolveAssemblyReference.cache
+B:\PROJELER\RS003_SOGUK_TEST_CIHAZI_KONTROL\v5_27.09.2016_ETHERNET_KONTROL_SOGUK\YAZILIM\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.Form1.resources
+B:\PROJELER\RS003_SOGUK_TEST_CIHAZI_KONTROL\v5_27.09.2016_ETHERNET_KONTROL_SOGUK\YAZILIM\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.Properties.Resources.resources
+B:\PROJELER\RS003_SOGUK_TEST_CIHAZI_KONTROL\v5_27.09.2016_ETHERNET_KONTROL_SOGUK\YAZILIM\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.csproj.GenerateResource.Cache
+B:\PROJELER\RS012_ETHERNET_KONTROL_SOGUK\YAZILIM\tcp_ip_client\tcp_ip_client\bin\Debug\tcp_ip_client.exe.config
+B:\PROJELER\RS012_ETHERNET_KONTROL_SOGUK\YAZILIM\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.exe
+B:\PROJELER\RS012_ETHERNET_KONTROL_SOGUK\YAZILIM\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.pdb
+B:\PROJELER\RS012_ETHERNET_KONTROL_SOGUK\YAZILIM\tcp_ip_client\tcp_ip_client\bin\Debug\tcp_ip_client.exe
+B:\PROJELER\RS012_ETHERNET_KONTROL_SOGUK\YAZILIM\tcp_ip_client\tcp_ip_client\bin\Debug\tcp_ip_client.pdb
+B:\PROJELER\RS012_ETHERNET_KONTROL_SOGUK\YAZILIM\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.csprojResolveAssemblyReference.cache
+B:\PROJELER\RS012_ETHERNET_KONTROL_SOGUK\YAZILIM\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.Form1.resources
+B:\PROJELER\RS012_ETHERNET_KONTROL_SOGUK\YAZILIM\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.Properties.Resources.resources
+B:\PROJELER\RS012_ETHERNET_KONTROL_SOGUK\YAZILIM\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.csproj.GenerateResource.Cache
+B:\PROJELER\RS012_ETHERNET_KONTROL_SOGUK\YAZILIM\soguk_test_v1\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.csprojResolveAssemblyReference.cache
+B:\PROJELER\RS012_ETHERNET_KONTROL_SOGUK\YAZILIM\soguk_test_v1\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.Form1.resources
+B:\PROJELER\RS012_ETHERNET_KONTROL_SOGUK\YAZILIM\soguk_test_v1\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.csproj.GenerateResource.Cache
+B:\PROJELER\RS012_ETHERNET_KONTROL_SOGUK\YAZILIM\soguk_test_v1\tcp_ip_client\tcp_ip_client\bin\Debug\soguk_test_cihazi.exe.config
+B:\PROJELER\RS012_ETHERNET_KONTROL_SOGUK\YAZILIM\soguk_test_v1\tcp_ip_client\tcp_ip_client\bin\Debug\soguk_test_cihazi.exe
+B:\PROJELER\RS012_ETHERNET_KONTROL_SOGUK\YAZILIM\soguk_test_v1\tcp_ip_client\tcp_ip_client\bin\Debug\soguk_test_cihazi.pdb
+B:\PROJELER\RS012_ETHERNET_KONTROL_SOGUK\YAZILIM\soguk_test_v1\tcp_ip_client\tcp_ip_client\obj\Debug\soguk_test_cihazi.Properties.Resources.resources
+B:\PROJELER\RS012_ETHERNET_KONTROL_SOGUK\YAZILIM\soguk_test_v1\tcp_ip_client\tcp_ip_client\obj\Debug\soguk_test_cihazi.exe
+B:\PROJELER\RS012_ETHERNET_KONTROL_SOGUK\YAZILIM\soguk_test_v1\tcp_ip_client\tcp_ip_client\obj\Debug\soguk_test_cihazi.pdb
+B:\PROJELER\ETHERNET_KONTROL_SOGUK\YAZILIM\soguk_test_v1\tcp_ip_client\tcp_ip_client\bin\Debug\soguk_test_cihazi.exe.config
+B:\PROJELER\ETHERNET_KONTROL_SOGUK\YAZILIM\soguk_test_v1\tcp_ip_client\tcp_ip_client\obj\Debug\soguk_test_cihazi.exe
+B:\PROJELER\ETHERNET_KONTROL_SOGUK\YAZILIM\soguk_test_v1\tcp_ip_client\tcp_ip_client\obj\Debug\soguk_test_cihazi.pdb
+B:\PROJELER\ETHERNET_KONTROL_SOGUK\YAZILIM\soguk_test_v1\tcp_ip_client\tcp_ip_client\bin\Debug\soguk_test_cihazi.exe
+B:\PROJELER\ETHERNET_KONTROL_SOGUK\YAZILIM\soguk_test_v1\tcp_ip_client\tcp_ip_client\bin\Debug\soguk_test_cihazi.pdb
+B:\PROJELER\ETHERNET_KONTROL_SOGUK\YAZILIM\soguk_test_v1\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.csprojResolveAssemblyReference.cache
+B:\PROJELER\ETHERNET_KONTROL_SOGUK\YAZILIM\soguk_test_v1\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.Form1.resources
+B:\PROJELER\ETHERNET_KONTROL_SOGUK\YAZILIM\soguk_test_v1\tcp_ip_client\tcp_ip_client\obj\Debug\soguk_test_cihazi.Properties.Resources.resources
+B:\PROJELER\ETHERNET_KONTROL_SOGUK\YAZILIM\soguk_test_v1\tcp_ip_client\tcp_ip_client\obj\Debug\tcp_ip_client.csproj.GenerateResource.Cache
